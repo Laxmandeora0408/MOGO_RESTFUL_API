@@ -1,0 +1,39 @@
+body{
+   text-align: center;
+}
+
+.msg{
+    background-color: aqua;
+    color:palevioletred;
+    padding: 5px 15px;
+    border-radius: 16px;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    display:relative;
+}
+.reciver{
+    background-color: dodgerblue;
+    color: white;
+    padding:5px 15px;
+    border-radius: 16px;
+    display: inline-block;
+    justify-content: space-between;
+    width: 15%;
+}
+.from{
+    background-color:greenyellow;
+    color: burlywood;
+    padding: 5px 15px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    display: inline-block;
+    width: 15%;
+}
+#btn{
+    font-size:15px;
+    background-color:cyan;
+    display:inine;
+    align-items:center;
+}
